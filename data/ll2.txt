@@ -1,7 +1,7 @@
-{"boundary_id":"1","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW1","lower_nw_port":"NW=SDN,NE=FW1,Layer=ODU,TTP=1","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT1","upper_nw_port":"NW=SDN,NE=PT1,Layer=Ether,TTP=1"}
-{"boundary_id":"2","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW1","lower_nw_port":"NW=SDN,NE=FW1,Layer=ODU,TTP=2","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT1","upper_nw_port":"NW=SDN,NE=PT1,Layer=Ether,TTP=2"}
-{"boundary_id":"3","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW2","lower_nw_port":"NW=SDN,NE=FW2,Layer=ODU,TTP=1","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT2","upper_nw_port":"NW=SDN,NE=PT2,Layer=Ether,TTP=1"}
-{"boundary_id":"4","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW2","lower_nw_port":"NW=SDN,NE=FW2,Layer=ODU,TTP=2","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT2","upper_nw_port":"NW=SDN,NE=PT2,Layer=Ether,TTP=2"}
-{"boundary_id":"5","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW4","lower_nw_port":"NW=SDN,NE=FW4,Layer=ODU,TTP=1","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT3","upper_nw_port":"NW=SDN,NE=PT3,Layer=Ether,TTP=1"}
-{"boundary_id":"6","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=FW4","lower_nw_port":"NW=SDN,NE=FW4,Layer=ODU,TTP=2","upper_nw":"L2","upper_nw_node":"NW=SDN,NE=PT3","upper_nw_port":"NW=SDN,NE=PT3,Layer=Ether,TTP=2"}
+{"boundary_id":"1","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT1","lower_nw_port":"NW=SDN,NE=OPT1,Layer=ODU,TTP=1","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT1","upper_nw_port":"NW=SDN,NE=PT1,Layer=Ether,TTP=1"}
+{"boundary_id":"2","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT1","lower_nw_port":"NW=SDN,NE=OPT1,Layer=ODU,TTP=2","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT1","upper_nw_port":"NW=SDN,NE=PT1,Layer=Ether,TTP=2"}
+{"boundary_id":"3","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT2","lower_nw_port":"NW=SDN,NE=OPT2,Layer=ODU,TTP=1","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT2","upper_nw_port":"NW=SDN,NE=PT2,Layer=Ether,TTP=1"}
+{"boundary_id":"4","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT2","lower_nw_port":"NW=SDN,NE=OPT2,Layer=ODU,TTP=2","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT2","upper_nw_port":"NW=SDN,NE=PT2,Layer=Ether,TTP=2"}
+{"boundary_id":"5","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT4","lower_nw_port":"NW=SDN,NE=OPT4,Layer=ODU,TTP=1","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT3","upper_nw_port":"NW=SDN,NE=PT3,Layer=Ether,TTP=1"}
+{"boundary_id":"6","lower_nw":"L01","lower_nw_node":"NW=SDN,NE=OPT4","lower_nw_port":"NW=SDN,NE=OPT4,Layer=ODU,TTP=2","upper_nw":"networkcomponent2","upper_nw_node":"NW=SDN,NE=PT3","upper_nw_port":"NW=SDN,NE=PT3,Layer=Ether,TTP=2"}
 
