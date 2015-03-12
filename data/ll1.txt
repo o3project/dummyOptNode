@@ -1,0 +1,7 @@
+{"boundary_id":"1","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW1","lower_nw_port":"NW=SDN,NE=FW1,Layer=OCh,TTP=1","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW1","upper_nw_port":"NW=SDN,NE=FW1,Layer=ODU,CTP=1"}
+{"boundary_id":"2","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW1","lower_nw_port":"NW=SDN,NE=FW1,Layer=OCh,TTP=2","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW1","upper_nw_port":"NW=SDN,NE=FW1,Layer=ODU,CTP=2"}
+{"boundary_id":"3","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW2","lower_nw_port":"NW=SDN,NE=FW2,Layer=OCh,TTP=1","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW2","upper_nw_port":"NW=SDN,NE=FW2,Layer=ODU,CTP=1"}
+{"boundary_id":"4","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW2","lower_nw_port":"NW=SDN,NE=FW2,Layer=OCh,TTP=2","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW2","upper_nw_port":"NW=SDN,NE=FW2,Layer=ODU,CTP=2"}
+{"boundary_id":"5","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW4","lower_nw_port":"NW=SDN,NE=FW4,Layer=OCh,TTP=1","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW4","upper_nw_port":"NW=SDN,NE=FW4,Layer=ODU,CTP=1"}
+{"boundary_id":"6","lower_nw":"L0","lower_nw_node":"NW=SDN,NE=FW4","lower_nw_port":"NW=SDN,NE=FW4,Layer=OCh,TTP=2","upper_nw":"L1","upper_nw_node":"NW=SDN,NE=FW4","upper_nw_port":"NW=SDN,NE=FW4,Layer=ODU,CTP=2"}
+
