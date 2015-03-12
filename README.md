@@ -20,7 +20,7 @@ Middleware: Oracle Java VM  jdk1.7.0_51、Maven 3
 Build
 --------------------------
 
-(Note)[OpenflowJ-OE](https://github.com/o3project) is required as the external library.
+(Note)[OpenflowJ-OTN](https://github.com/o3project/openflowj-otn) is required as the external library.
 
     $ cd ~
     $ git clone https://github.com/o3project/dummyoptnode.git
