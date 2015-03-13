@@ -7,6 +7,7 @@ DummyOptNode(DON) is a software that emulates optical nodes with OTN/WDM functio
 2. DON analyzes the content of flowmod.
 3. DON visualizes the ODU XC that is set up by flowmod. 
 
+Please see [starting guide](http://www.o3project.org/ja/fujitsu/docs/getting_started_OPT.pdf) for detailed instructions of "Opt-transport apps of O3 orchestrator & controller suite". 
 
 Environment
 --------------------------
