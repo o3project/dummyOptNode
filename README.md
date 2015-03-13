@@ -3,7 +3,7 @@
 ---
 DummyOptNode(DON) is a software that emulates optical nodes with OTN/WDM functions without data plane. DON is connected to RYU-OE, receives Flowmod and shows new cross connection status assigned by Flowmod.
 
-1. DON sets up TCP session with RYU OTN extension, and receives the control command of OpenFlow protocol.
+1. DON sets up TCP session with RYU-OE, and receives the control command of OpenFlow protocol.
 2. DON analyzes the content of flowmod.
 3. DON visualizes the ODU XC that is set up by flowmod. 
 
