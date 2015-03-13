@@ -41,8 +41,8 @@ Set RYU-OE’s host & port for OpenFlow session.
 Starting DummyOptNode
 --------------------------
 
-    $ java -jar  ~/dummyoptnode-1.0.0/dummyoptnode-1.0.0.jar
-
+    $ cd ~/dummyoptnode-1.0.0/
+    $ java -jar dummyoptnode-1.0.0.jar
 
 Stopping DummyOptNode
 --------------------------
