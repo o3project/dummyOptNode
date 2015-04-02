@@ -21,7 +21,9 @@ Middleware: Oracle Java VM  jdk1.7.0_51、Maven 3
 Build
 --------------------------
 
-(Note)[OpenflowJ-OTN](https://github.com/o3project/openflowj-otn) is required as the external library.
+(Note)
+It is necessary to build [OpenFlowJ OTN extension](https://github.com/o3project/openflowj-otn) before building DON because DON uses the extension for the external library.
+
 
     $ cd ~
     $ git clone https://github.com/o3project/dummyoptnode.git
